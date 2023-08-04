@@ -1,0 +1,31 @@
+.llmspr-select-multiple, .llmspr-select-multiple_user,.llmspr-select-multiple_course{
+	width: 500px !important;
+	display: inline-block !important;
+	padding: 20px !important;
+	border-radius: 5px !important;
+}
+
+.llmspr-input-sub-headings {
+	font-size: 12px;
+	font-style: italic;
+}
+
+#llmspr_progress_wrap {
+	width: 100%;
+	background-color: #ddd;
+  }
+  
+  #llmspr_progress_bar {
+	width: 0%;
+	height: 20px;
+	background-color: #4CAF50;
+  }
+
+.llmspr-progress-reset-form form table label {
+	cursor: unset !important;
+}
+
+.llmspr-progress-reset-form .select2-container .select2-selection {
+    height: 90px;
+    overflow-y: scroll;
+} 
